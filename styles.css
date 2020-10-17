@@ -1,0 +1,18 @@
+body{
+    margin:0;
+    padding:0;
+}
+.navbar-nav{
+    margin-left:25%;
+    margin-right:25%;
+    color:black;
+    font-size:25px;
+}
+header{
+    background-image:url("./Images/pizza6.jpeg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:800px;
+    font-size:20px;
+    align-items:center;
+}
