@@ -129,4 +129,9 @@ nav .navbar {
     width: 20%;
     height: 15%;
 }
-
+#order{
+    background-image: url("./Images/pizza6.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+}
