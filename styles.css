@@ -11,7 +11,7 @@ header,
     scroll-behavior: smooth;
 
 }
-.nav-item{
+.nav-link{
     color:white;
 }
 
@@ -133,5 +133,8 @@ nav .navbar {
     background-image: url("./Images/pizza6.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
+    color:white;
+}
+.table table-sm  pizzatable{
     color:white;
 }
